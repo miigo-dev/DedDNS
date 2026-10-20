@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor/OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# DedDNS output artifacts
+*_live.txt
+*_cloudflare.txt
+*_protected.txt
+*_tls_issues.txt
+*_possible_wildcard.txt
+*_http_errors.txt
+*_dead.txt
+*.lock

@@ -1,0 +1,3 @@
+# Normalize line endings to LF so the script stays Unix-friendly everywhere.
+* text=auto eol=lf
+*.py text eol=lf
