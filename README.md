@@ -10,7 +10,6 @@ Async subdomain liveness checker. Feed it a list of subdomains and it probes eac
 ░██   █▌▒███   ░██   █▌░██   █▌▓██  ▀█ ██▒░ ▓██▄
 ░▓█▄   ▌▒▓█  ▄ ░▓█▄   ▌░▓█▄   ▌▓██▒  ▐▌██▒  ▒   ██▒
 ░▒████▓ ░▒████▒░▒████▓ ░▒████▓ ▒██░   ▓██░▒██████▒▒
-   :: subdomain liveness scanner ::
 ```
 
 Requirements: **Python 3.8 or newer**
